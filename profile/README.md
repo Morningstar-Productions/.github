@@ -18,7 +18,7 @@
 </p>
 <p align="center">
 Work In Progress Development Team with Great Resources!
-[![discord](https://repository-images.githubusercontent.com/329367037/987e4200-55cd-11eb-8787-e99595eaa2d8)](https://discord.gg/3CXrkvQVds)
+![discord](https://discord.gg/3CXrkvQVds)
 </p>
 <!--
 
@@ -30,9 +30,6 @@ Work In Progress Development Team with Great Resources!
 </div>
 
 -->
-<p align="center">
-https://discord.gg/ouroborosrp
-</p>
 
 <!--
 
