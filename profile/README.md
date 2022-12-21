@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Morningstar Productions</h1>
   <kbd>
-  <img src="https://media.discordapp.net/attachments/420673025214644236/1011442827043012658/xViperAG_2.png" width="405">
+  <img src="https://media.discordapp.net/attachments/434167856993927178/1055262737980215356/GRB_TEAtG4GNtk.jpg?width=821&height=701">
   </kbd>
+  <h1 align="center">Morningstar Productions</h1>
 </div>
 <p align="center">
   <tr>
