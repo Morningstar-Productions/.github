@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-  <img src="https://media.discordapp.net/attachments/434167856993927178/1055262737980215356/GRB_TEAtG4GNtk.jpg?width=821&height=701">
+  <img src="https://media.discordapp.net/attachments/434167856993927178/1055262737980215356/GRB_TEAtG4GNtk.jpg?width=821&height=500">
   </kbd>
   <h1 align="center">Morningstar Productions</h1>
 </div>
@@ -18,7 +18,9 @@
 </p>
 <p align="center">
 Work In Progress Development Team with Great Resources!
-![discord](https://discord.gg/3CXrkvQVds)
+  <div align="center">
+    * https://discord.gg/3CXrkvQVds
+  </div>
 </p>
 <!--
 
