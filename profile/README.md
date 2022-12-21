@@ -19,7 +19,7 @@
 <p align="center">
 Work In Progress Development Team with Great Resources!
   <div align="center">
-    * https://discord.gg/3CXrkvQVds
+    - https://discord.gg/3CXrkvQVds
   </div>
 </p>
 <!--
