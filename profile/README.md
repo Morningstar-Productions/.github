@@ -2,7 +2,7 @@
   <kbd>
   <img src="https://media.discordapp.net/attachments/434167856993927178/1055262737980215356/GRB_TEAtG4GNtk.jpg?width=821&height=500">
   </kbd>
-  <h1 align="center">Morningstar Productions</h1>
+  <h1 align="center">Morningstar Development</h1>
 </div>
 <p align="center">
   <tr>
