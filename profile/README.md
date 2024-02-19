@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-  <img src="https://media.discordapp.net/attachments/434167856993927178/1055262737980215356/GRB_TEAtG4GNtk.jpg?width=821&height=500">
+  <img src="https://cdn.discordapp.com/attachments/971414395764752404/1135880134595977317/opera_IzlFzy7IQ3.png?ex=65ddb7cf&is=65cb42cf&hm=3f0fb9efd468e81f5b430a2745ac21ad53093189bdf23db687acede015d1f19c&">
   </kbd>
   <h1 align="center">Morningstar Development</h1>
 </div>
