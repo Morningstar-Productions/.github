@@ -3,6 +3,7 @@
   <img src="https://i.postimg.cc/DfrFgh5k/3791a3a9a7f653a7e26e0109c760f061b13a7b40-1.png">
   </kbd>
   <h1 align="center">Morningstar Development</h1>
+  <h2 align="center">Work In Progress Development Team with Great Resources!</h2>
 </div>
 <p align="center">
   <tr>
@@ -13,17 +14,15 @@
   </tr>
 </p>
 <p align="center">
-Work In Progress Development Team with Great Resources!
+  <kbd>
+  <img src="https://i.postimg.cc/rwtf1VC5/The-World-Tree-2-1.png)](https://postimg.cc/tspdyHcg">
+  </kbd>
+  <h3 align="center">Join My RP Server Discord Here<h3>
   <div align="center">
     - https://discord.gg/3CXrkvQVds
   </div>
 </p>
 <!--
-
-[![The-World-Tree-2-1.png](https://i.postimg.cc/rwtf1VC5/The-World-Tree-2-1.png)](https://postimg.cc/tspdyHcg)
-<div>
-  <h3 align="center">Join My RP Server Discord Here<h3>
-</div>
 
 -->
 
