@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-  <img src="https://cdn.discordapp.com/attachments/971414395764752404/1135880134595977317/opera_IzlFzy7IQ3.png?ex=65ddb7cf&is=65cb42cf&hm=3f0fb9efd468e81f5b430a2745ac21ad53093189bdf23db687acede015d1f19c&">
+  <img src="https://i.postimg.cc/DfrFgh5k/3791a3a9a7f653a7e26e0109c760f061b13a7b40-1.png">
   </kbd>
   <h1 align="center">Morningstar Development</h1>
 </div>
@@ -22,7 +22,7 @@ Work In Progress Development Team with Great Resources!
 
 <div align="center">
   <kbd>
-  <img src="https://media.discordapp.net/attachments/996342018127175751/1001672364813189231/ouroborosresized.png" width="200">
+  <img src="https://i.postimg.cc/rwtf1VC5/The-World-Tree-2-1.png" width="200">
   </kbd>
   <h3 align="center">Join My RP Server Discord Here<h3>
 </div>
