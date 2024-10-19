@@ -17,7 +17,7 @@
   <kbd>
   <img src="https://i.postimg.cc/rwtf1VC5/The-World-Tree-2-1.png)](https://postimg.cc/tspdyHcg">
   </kbd>
-  <h3 align="center">Join My RP Server [Discord](https://discord.gg/3CXrkvQVds) Here<h3>
+  <h3 align="center">Join My RP Server Discord Here! Link: https://discord.gg/3CXrkvQVds<h3>
 </p>
 <!--
 
