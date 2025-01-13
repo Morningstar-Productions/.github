@@ -20,7 +20,7 @@
   <kbd>
   <img src=https://i.postimg.cc/zGzRjGdt/Untitled_design_(2).png>
   </kbd>
-  <h3 align="center">Join The Rising Hope RP Server Discord Here! Link: discord.gg/zJ7wfbqkmb</h3>
+  <h3 align="center">Join The Rising Hope RP Server Discord Here! Link: https://discord.gg/zJ7wfbqkmb<h3>
 </p>
 
 <!--
