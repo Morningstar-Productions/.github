@@ -18,7 +18,7 @@
 
 <p align="center">
   <kbd>
-  <img src=https://i.postimg.cc/J79qCRsV/Rising_Hope_RP_(1).png>
+  <img src=https://i.postimg.cc/zGzRjGdt/Untitled_design_(2).png>
   </kbd>
   <h3 align="center">Join The Rising Hope RP Server Discord Here! Link: discord.gg/zJ7wfbqkmb</h3>
 </p>
