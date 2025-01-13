@@ -16,13 +16,6 @@
   </tr>
 </p>
 
-<div align="center">
-  <h2 align="center">Join The Rising Hope RP Server Discord Here! Link: https://discord.gg/zJ7wfbqkmb<h2>
-  <kbd>
-  <img src=https://i.postimg.cc/zGzRjGdt/Untitled_design_(2).png>
-  </kbd>
-</div>
-
 <!--
 
 **Here are some ideas to get you started:**
