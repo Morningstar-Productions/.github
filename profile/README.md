@@ -6,6 +6,7 @@
   <h2 align="center">Work In Progress Development Team with Great Resources!</h2>
   <h3 align="center">Join The Support Server Discord Here! Link: https://discord.gg/3CXrkvQVds<h3>
 </div>
+
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -14,12 +15,13 @@
     </td>
   </tr>
 </p>
+
 <p align="center">
   <kbd>
   <img src=https://i.postimg.cc/J79qCRsV/Rising_Hope_RP_(1).png>
   </kbd>
+  <h3 align="center">Join The Rising Hope RP Server Discord Here! Link: discord.gg/zJ7wfbqkmb</h3>
 </p>
-<h3 align="center">Join The Rising Hope RP Server Discord Here! Link: discord.gg/zJ7wfbqkmb<h3>
 
 <!--
 
